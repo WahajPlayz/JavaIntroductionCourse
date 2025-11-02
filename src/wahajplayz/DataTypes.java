@@ -33,8 +33,8 @@ public class DataTypes {
 
 
     // Booleans (True or False)
-    boolean likedVideo = true;
-    boolean subscribed = true;
+    boolean CatMiraculousFav = true;
+    boolean LadyBugMiraculousFav = true;
 
 
     // Chars & Strings
